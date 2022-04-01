@@ -1,0 +1,262 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "",
+			"Name": "惊讶嘴"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "",
+			"Name": "前倾后仰"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "生气表情"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "噘嘴表情"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "嘟嘴表情"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "",
+			"Name": "吃惊表情"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "手臂抬起"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "",
+			"Name": "手臂放下左边"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "",
+			"Name": "手臂放下右边"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "手臂抬起晃动左"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "手臂抬起晃动右"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "",
+			"Name": "前发"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "",
+			"Name": "左右发"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "",
+			"Name": "飘发"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "",
+			"Name": "后发"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "",
+			"Name": "蝴蝶结"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "姬野星奏(脸）.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "姬野星奏(额头）.psd"
+		},
+		{
+			"Id": "toufa",
+			"Name": "toufa"
+		},
+		{
+			"Id": "zuiba",
+			"Name": "zuiba"
+		},
+		{
+			"Id": "Part4",
+			"Name": "zuiba1"
+		},
+		{
+			"Id": "Part3",
+			"Name": "zuiba2"
+		},
+		{
+			"Id": "zuoyan",
+			"Name": "zuoyan"
+		},
+		{
+			"Id": "youyan",
+			"Name": "youyan"
+		},
+		{
+			"Id": "Part",
+			"Name": "meimao"
+		},
+		{
+			"Id": "Part2",
+			"Name": "wuguan"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		]
+	]
+}
